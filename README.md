@@ -51,5 +51,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Elquiane Lima](https://img.shields.io/badge/-Elquiane Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elquiane-lima-36598319a/)](https://www.linkedin.com/in/elquiane-lima-36598319a/)
+[![Linkedin: Elquiane Lima](https://img.shields.io/badge/-Elquiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elquiane-lima-36598319a/)](https://www.linkedin.com/in/elquiane-lima-36598319a/)
 [![GitHub Elquiane]( https://img.shields.io/github/followers/elquianel?label=follow&style=social)](https://github.com/elquianel)
