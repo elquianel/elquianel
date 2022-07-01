@@ -51,5 +51,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Elquiane Lima](https://img.shields.io/badge/-Elquiane Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elquiane-lima-36598319a/)](https://www.linkedin.com/in/elquiane-lima-36598319a/)
+[![GitHub Elquiane]( https://img.shields.io/github/followers/elquianel?label=follow&style=social)](https://github.com/elquianel)
