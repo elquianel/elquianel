@@ -43,12 +43,6 @@
 
 <br/>
 
-<a href="https://github.com/elquianel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elquianel&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Elquiane Lima](https://img.shields.io/badge/-Elquiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elquiane-lima-36598319a/)](https://www.linkedin.com/in/elquiane-lima-36598319a/)
