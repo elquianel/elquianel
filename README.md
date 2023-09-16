@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SI** na <a href="https://unijuazeiro.edu.br/">Unijuazeiro</a>.
+- 🎓 &nbsp; Bacharel em Sistemas de Informação pela <a href="https://unijuazeiro.edu.br/">Unijuazeiro</a>.
 - 💼 &nbsp; Trabalhando como **Dev back-end** na <a href="https://grupointraead.com.br/">Grupo Intra EAD</a>
 - ☕ &nbsp; Não curto café, prefiro suco de goiaba 🍈
 
