@@ -5,6 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Bacharel em Sistemas de Informação pela <a href="https://unijuazeiro.edu.br/">Unijuazeiro</a>.
+- 💼 &nbsp; Atualmente trabalhando como Desenvolvedora Backend na <a href="https://wepayments.com.br/">WEpayments</a>.
 - ☕ &nbsp; Não curto café, prefiro suco de goiaba 🍈
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
